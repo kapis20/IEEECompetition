@@ -1,0 +1,23 @@
+{
+  "tracker_map":
+    {
+      "l_foot": 1,
+      "l_ankle": 2,
+      "l_thigh": 3,
+      "l_hand": 4,
+      "l_low_arm": 5,
+      "l_up_arm": 6,
+      "l_shoulder": 7,
+      "r_foot": 8,
+      "r_ankle": 9,
+      "r_thigh": 10,
+      "r_hand": 11,
+      "r_low_arm": 12,
+      "r_up_arm": 13,
+      "r_shoulder": 14,
+      "head": 15,
+      "chest": 16,
+      "waist": 17,
+      "hip": 18
+    }
+}

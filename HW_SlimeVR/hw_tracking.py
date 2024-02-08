@@ -5,9 +5,10 @@ import argparse
 
 import numpy as np
 
+from time import sleep
 from typing import List, Any
 from pythonosc.dispatcher import Dispatcher
-from pythonosc import osc_server
+from pythonosc.osc_server import BlockingOSCUDPServer
 
 
 class HWTracking:
@@ -34,6 +35,8 @@ class HWTracking:
 
         self._osc_server_thread = threading.Thread(target=self.osc_server)
         self._osc_server_thread.start()
+
+        sleep(1)    # A bit hacky but ensures server is established before unblocking
 
     @property
     def track_points(self) -> list:
@@ -63,6 +66,6 @@ class HWTracking:
             tracker_id = self._TRACKER_MAP[track_point]
             dispatcher.map(f"/tracking/trackers/{tracker_id}/position", self.position_handler, *[track_point])
 
-        server = osc_server.ThreadingOSCUDPServer((args.ip, args.port), dispatcher)
-        print("Serving on {}".format(server.server_address))
+        server = BlockingOSCUDPServer((args.ip, args.port), dispatcher)  # Handling threading manually so can use standard blocking UDP server
+        print(f"SlimeVR HW Server configured on address: {self._addr}, port: {str(self._port)}")
         server.serve_forever()

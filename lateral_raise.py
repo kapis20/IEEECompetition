@@ -84,7 +84,7 @@ with mp_pose.Pose(min_detection_confidence = 0.5, min_tracking_confidence=0.5) a
             #location to print
             shoulder_loc = [x - 0.03 for x in shoulder_l]
             
-            if (angle_r > 15):
+            if (angle_r > 23):
                 #print(angle_r)
                 cv2.rectangle(image, m_box1["start"], m_box1["end"], colours["orange"], -1)
                 cv2.putText(image, str("Raise higher"), m_box1["text"], cv2.FONT_HERSHEY_SIMPLEX, 0.7, colours["white"], 1, cv2.LINE_AA)

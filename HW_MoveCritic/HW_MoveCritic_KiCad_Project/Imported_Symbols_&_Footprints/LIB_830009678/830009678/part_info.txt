@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=830009678
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=2
+Version=1.4
+Released=2022-12-31 12:17:36
+Downloaded=2024-02-14 17:56:21
+3D=Y

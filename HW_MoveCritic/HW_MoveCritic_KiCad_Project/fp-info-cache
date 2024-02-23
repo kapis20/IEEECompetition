@@ -1,4 +1,18 @@
-22349969744263045
+22355094158814843
+830009678
+2400MHz_PCB_Meander_Antenna
+
+
+0
+12
+2
+830009678
+830009678
+830009678-1
+Crystal or Oscillator
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55871,8 +55885,8 @@ DLF162500LT-5028A1
 
 
 0
-0
-0
+4
+3
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -81899,6 +81913,13 @@ Skyworks
 0
 7
 7
+RF_Antenna
+ANTENNA_W3008
+
+
+0
+3
+3
 RF_Antenna
 Abracon_APAES868R8060C16-T
 Abracon RHCP ceramic patch antenna 854-882Mhz, 5dBi

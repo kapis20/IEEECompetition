@@ -144,3 +144,22 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-02-14 13:10:10.660
 !MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-02-22 17:03:59.424 -----------------------------------------------
+eclipse.buildId=Version 1.14.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-02-22 17:04:28.828
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-02-22 17:04:28.833
+!MESSAGE Log4j2 initialized with config file C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-02-22 17:05:20.396
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-02-22 17:05:23.518
+!MESSAGE Indexed 'MoveCritic_FBT_Module' (27 sources, 120 headers) in 3.1 sec: 12,913 declarations; 60,818 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0.23%)

@@ -17,11 +17,11 @@ class HWTracking:
         self._addr = addr
         self._port = port
 
-        with open(r"C:\Dev\MoveCritic_HW\tracker_map.json") as json_file:
+        with open(r"tracker_map.json") as json_file:
             self._TRACKER_MAP = json.load(json_file)["tracker_map"]
 
         if track_points is None:
-            self._track_points = ["l_ankle", "l_thigh", "hip"]
+            self._track_points = self._TRACKER_MAP.keys()
         else:
             if set(track_points).issubset(list(self._TRACKER_MAP.keys())):
                 self._track_points = track_points

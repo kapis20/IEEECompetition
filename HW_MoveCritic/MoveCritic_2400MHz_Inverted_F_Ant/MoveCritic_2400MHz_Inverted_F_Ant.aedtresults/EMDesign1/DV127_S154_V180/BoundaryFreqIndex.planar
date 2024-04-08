@@ -1,0 +1,15 @@
+MeshFile='Boundary.mesh'
+$begin 'Frequencies'
+	$begin 'BND_FS1.freq'
+		Frequency=2000000000
+		FreqDir='FS1/'
+	$end 'BND_FS1.freq'
+	$begin 'BND_FS3.freq'
+		Frequency=2400000000
+		FreqDir='FS3/'
+	$end 'BND_FS3.freq'
+	$begin 'BND_FS2.freq'
+		Frequency=3000000000
+		FreqDir='FS2/'
+	$end 'BND_FS2.freq'
+$end 'Frequencies'

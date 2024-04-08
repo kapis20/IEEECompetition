@@ -1,0 +1,385 @@
+2024-03-10 13:58:28,627 [WARN] MainPanel:272 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-03-10 13:58:42,651 [WARN] MainPanel:381 - Warning: This peripheral has no parameters to be configured
+2024-03-10 13:58:44,520 [WARN] MainPanel:381 - Warning: This peripheral has no parameters to be configured
+2024-03-10 13:58:46,650 [INFO] DmaTabbedPanel:205 - Cannot restore the selected Tab for DMA
+2024-03-10 13:58:48,396 [WARN] MainPanel:381 - Warning: This peripheral has no parameters to be configured
+2024-03-10 13:58:48,919 [WARN] MainPanel:381 - Warning: This peripheral has no parameters to be configured
+2024-03-10 13:59:11,620 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,515x332,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-10 13:59:12,732 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-10 13:59:21,446 [WARN] MainPanel:381 - Warning: This peripheral has no parameters to be configured
+2024-03-10 13:59:22,541 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,515x332,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-10 13:59:24,240 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-10 13:59:24,523 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-10 13:59:25,970 [WARN] MainPanel:381 - Warning: This peripheral has no parameters to be configured
+2024-03-10 13:59:26,699 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,515x332,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-10 13:59:32,572 [INFO] ApiDbMcu:508 - Load IP Config File for STM32_WPAN
+2024-03-10 13:59:32,618 [WARN] IP:2119 - SERVICE1_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 13:59:32,620 [WARN] IP:2119 - SERVICE2_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 13:59:32,622 [WARN] IP:2119 - SERVICE3_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 13:59:32,624 [WARN] IP:2119 - SERVICE4_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 13:59:32,625 [WARN] IP:2119 - SERVICE5_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 13:59:32,677 [WARN] IP:2119 - SERVICE1_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 13:59:32,678 [WARN] IP:2119 - SERVICE2_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 13:59:32,680 [WARN] IP:2119 - SERVICE3_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 13:59:32,681 [WARN] IP:2119 - SERVICE4_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 13:59:32,682 [WARN] IP:2119 - SERVICE5_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 13:59:32,717 [WARN] IpParametersView:151 - Warning: This peripheral hasn't parameters
+2024-03-10 13:59:32,730 [WARN] IpParametersView:151 - Warning: This peripheral hasn't parameters
+2024-03-10 14:00:17,480 [INFO] ApiDbMcu:508 - Load IP Config File for USB_Device
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,480 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,505 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,509 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:17,525 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:21,772 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:24,799 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:00:29,625 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 506736200 Bytes (612368384)
+2024-03-10 14:00:31,203 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 522165704 Bytes (612368384)
+2024-03-10 14:00:31,941 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 549205576 Bytes (612368384)
+2024-03-10 14:00:32,171 [INFO] ProjectBuilder:2346 - IP not ready for code generation: Clock
+2024-03-10 14:04:29,735 [INFO] MainUpdater:2873 - connection check result : 10
+2024-03-10 14:04:29,736 [INFO] MainUpdater:2873 - connection check result : 10
+2024-03-10 14:04:29,767 [INFO] I2cTimingTraitement:330 - 0x10707DBC
+2024-03-10 14:04:29,773 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-03-10 14:04:29,773 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.100
+2024-03-10 14:04:29,786 [ERROR] ProjectManagerView:394 - 
+java.lang.NullPointerException: Cannot invoke "javax.swing.JTextField.getText()" because the return value of "java.util.List.get(int)" is null
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab$10.caretUpdate(ProjectChoiceTab.java:2493) ~[filemanager.jar:?]
+	at javax.swing.text.JTextComponent.fireCaretUpdate(JTextComponent.java:412) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.fire(JTextComponent.java:4491) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.stateChanged(JTextComponent.java:4513) ~[?:?]
+	at javax.swing.text.DefaultCaret.fireStateChanged(DefaultCaret.java:842) ~[?:?]
+	at javax.swing.text.DefaultCaret.changeCaretPosition(DefaultCaret.java:1313) ~[?:?]
+	at javax.swing.text.DefaultCaret.handleSetDot(DefaultCaret.java:1212) ~[?:?]
+	at javax.swing.text.DefaultCaret.setDot(DefaultCaret.java:1193) ~[?:?]
+	at javax.swing.text.DefaultCaret$Handler.insertUpdate(DefaultCaret.java:1789) ~[?:?]
+	at javax.swing.text.AbstractDocument.fireInsertUpdate(AbstractDocument.java:226) ~[?:?]
+	at javax.swing.text.AbstractDocument.handleInsertString(AbstractDocument.java:780) ~[?:?]
+	at javax.swing.text.AbstractDocument.insertString(AbstractDocument.java:739) ~[?:?]
+	at javax.swing.text.PlainDocument.insertString(PlainDocument.java:131) ~[?:?]
+	at javax.swing.text.AbstractDocument.replace(AbstractDocument.java:698) ~[?:?]
+	at javax.swing.text.JTextComponent.setText(JTextComponent.java:1729) ~[?:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.createHeapStackFields(ProjectChoiceTab.java:933) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.buildLinkSettingsPanel(ProjectChoiceTab.java:3426) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.defineWindowsFields(ProjectChoiceTab.java:1813) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.updateSettings(ProjectChoiceTab.java:533) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectSettingsPanel.UpdateDialog(ProjectSettingsPanel.java:244) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.ProjectManagerView.propertyChange(ProjectManagerView.java:391) ~[filemanager.jar:?]
+	at java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:343) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:335) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:268) ~[?:?]
+	at com.st.microxplorer.util.MXPropertyChangeSupport.firePropertyChange(MXPropertyChangeSupport.java:54) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.mxsystem.MxSystem.closeConfig(MxSystem.java:900) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.maingui.MainPanel.closeConfig(MainPanel.java:776) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.OpenFileManager.loadConfigurationFile(OpenFileManager.java:245) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.MainFileManager.userLoadConfig(MainFileManager.java:290) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.FileManagerView.getSpecificTask(FileManagerView.java:247) ~[filemanager.jar:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor.getMxTabbedPaneInstance(CubeMxEditor.java:1184) ~[com.st.stm32cube.common.mx_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor$12$1.createSwingComponent(CubeMxEditor.java:1065) ~[com.st.stm32cube.common.mx_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.doComponentCreation(EmbeddedSwingComposite.java:492) ~[com.st.stm32cube.common.mx.oss_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite$4.run(EmbeddedSwingComposite.java:291) ~[com.st.stm32cube.common.mx.oss_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:166) ~[com.st.stm32cube.common.mx.oss_6.10.0.202311202037/:?]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:720) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:714) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86) ~[?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) ~[?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:117) ~[?:?]
+	at java.awt.WaitDispatchSupport$2.run(WaitDispatchSupport.java:191) ~[?:?]
+	at java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:236) ~[?:?]
+	at java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:234) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:318) ~[?:?]
+	at java.awt.WaitDispatchSupport.enter(WaitDispatchSupport.java:234) ~[?:?]
+	at java.awt.Dialog.show(Dialog.java:1080) ~[?:?]
+	at javax.swing.JOptionPane.showOptionDialog(JOptionPane.java:880) ~[?:?]
+	at javax.swing.JOptionPane.showConfirmDialog(JOptionPane.java:805) ~[?:?]
+	at javax.swing.JOptionPane.showConfirmDialog(JOptionPane.java:767) ~[?:?]
+	at javax.swing.JOptionPane.showConfirmDialog(JOptionPane.java:728) ~[?:?]
+	at com.st.microxplorer.plugins.clock.ClockConfigurationView.activatePlugin(ClockConfigurationView.java:416) ~[?:?]
+	at com.st.microxplorer.maingui.MainPanel$1.stateChanged(MainPanel.java:369) ~[STM32CubeMX.jar:?]
+	at javax.swing.JTabbedPane.fireStateChanged(JTabbedPane.java:444) ~[?:?]
+	at javax.swing.JTabbedPane$ModelListener.stateChanged(JTabbedPane.java:295) ~[?:?]
+	at javax.swing.DefaultSingleSelectionModel.fireStateChanged(DefaultSingleSelectionModel.java:148) ~[?:?]
+	at javax.swing.DefaultSingleSelectionModel.setSelectedIndex(DefaultSingleSelectionModel.java:79) ~[?:?]
+	at javax.swing.JTabbedPane.setSelectedIndexImpl(JTabbedPane.java:648) ~[?:?]
+	at javax.swing.JTabbedPane.setSelectedIndex(JTabbedPane.java:623) ~[?:?]
+	at javax.swing.plaf.basic.BasicTabbedPaneUI$Handler.mousePressed(BasicTabbedPaneUI.java:4101) ~[?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6623) ~[?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3389) ~[?:?]
+	at java.awt.Component.processEvent(Component.java:6391) ~[?:?]
+	at java.awt.Container.processEvent(Container.java:2266) ~[?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:5001) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2324) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4833) ~[?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4948) ~[?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4572) ~[?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4516) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2310) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4833) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:775) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:720) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:714) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:97) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:747) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:745) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86) ~[?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:744) ~[?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
+2024-03-10 14:04:29,793 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-03-10 14:04:29,793 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-03-10 14:04:29,793 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-03-10 14:04:29,794 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-03-10 14:04:29,940 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 477090656 Bytes (623902720)
+2024-03-10 14:04:29,941 [INFO] OpenFileManager:312 - Change cursor
+2024-03-10 14:04:29,955 [INFO] RulesReader:64 - Compatibility file has been processed (297 Rules)
+2024-03-10 14:04:29,962 [INFO] Mcu:2016 - Initializing MCU STM32WB55CEUx STM32WB55CEUx STM32WB55CEU7
+2024-03-10 14:04:30,631 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-03-10 14:04:30,869 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-03-10 14:04:30,869 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-03-10 14:04:30,869 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-03-10 14:04:30,869 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-03-10 14:04:30,869 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,878 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,879 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,879 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,879 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,879 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,879 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,879 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,879 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,879 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-10 14:04:30,923 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-03-10 14:04:31,158 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-03-10 14:04:31,165 [INFO] HwResourcesManager:1580 - RZone for current mcu STM32WB55CEUx : STM32_DIE495_256_512
+2024-03-10 14:04:31,180 [INFO] HwResourcesManager:425 - Memory Region Flash added without MPC
+2024-03-10 14:04:31,182 [INFO] HwResourcesManager:425 - Memory Region SRAM2_C added without MPC
+2024-03-10 14:04:31,184 [INFO] HwResourcesManager:425 - Memory Region SRAM1 added without MPC
+2024-03-10 14:04:31,185 [INFO] HwResourcesManager:425 - Memory Region SRAM2 added without MPC
+2024-03-10 14:04:31,196 [INFO] MemInfoExtractor$OctoQuadSPIInfoExtractor:1230 - Cannot find QUADSPI start address in the info provided by HWResourceManager => Set it to the default value
+2024-03-10 14:04:31,198 [WARN] IP:2119 - DefaultDataRegion not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:31,198 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (MEMORYMAP) : Invalid parameter (DefaultDataRegion)
+2024-03-10 14:04:31,198 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2024-03-10 14:04:31,198 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (HSE_VALUE) has invalid value (8000000)
+2024-03-10 14:04:31,263 [INFO] ApiDb:668 - CubeFinder database Data Model version=2.1
+2024-03-10 14:04:31,263 [INFO] ApiDb:669 - CubeFinder database Configuration version=3.0.39
+2024-03-10 14:04:31,263 [INFO] ApiDb:670 - CubeFinder database generation date=2024-01-11 (1704964531)
+2024-03-10 14:04:31,263 [INFO] ApiDb:671 - CubeFinder database FW Pack versions=[FP-ATR-ASTRA1_V2.0.0, FP-SNS-FLIGHT1_V5.0.1, FP-SNS-FLIGHT1_V5.0.2, FP-SNS-MOTENV1_V4.3.1, FP-SNS-MOTENV1_V4.3.2, FP-SNS-MOTENVWB1_V1.3.1, FP-SNS-SMARTAG2_V1.2.0, STM32Cube_FW_C0_V1.1.0, STM32Cube_FW_F4_V1.28.0, STM32Cube_FW_F7_V1.17.0, STM32Cube_FW_G0_V1.6.2, STM32Cube_FW_G4_V1.5.2, STM32Cube_FW_H5_V0.5.1, STM32Cube_FW_H5_V1.1.1, STM32Cube_FW_H5_V1.2.0RC2, STM32Cube_FW_H7_V1.11.0, STM32Cube_FW_L0_V1.12.2, STM32Cube_FW_L5_V1.5.0, STM32Cube_FW_U5_V1.3.0RC4, STM32Cube_FW_U5_V1.4.0, STM32Cube_FW_WBA_V1.0.0RC1, STM32Cube_FW_WBA_V1.1.0RC1, STM32Cube_FW_WBA_V1.2.0, STM32Cube_FW_WBA_V1.2.0RC2, STM32Cube_FW_WB_V1.15.0RC1, STM32Cube_FW_WB_V1.16.0, STM32Cube_FW_WB_V1.16.0RC2, STM32Cube_FW_WB_V1.18.0, STM32Cube_FW_WL_V1.3.0, X-CUBE-ALGOBUILD_V1.3.0, X-CUBE-ALS_V1.0.1, X-CUBE-AZRTOS-F4_V1.1.0, X-CUBE-AZRTOS-F7_V1.1.0, X-CUBE-AZRTOS-G0_V1.1.0, X-CUBE-AZRTOS-G4_V2.0.0, X-CUBE-AZRTOS-H7_V3.2.0, X-CUBE-AZRTOS-L4_V1.0.0, X-CUBE-AZRTOS-L4_V2.0.0, X-CUBE-AZRTOS-L5_V1.1.0, X-CUBE-AZRTOS-WB_V2.0.0, X-CUBE-AZRTOS-WL_V2.0.0, X-CUBE-BLE1_V7.0.0, X-CUBE-BLE2_V3.3.0, X-CUBE-BLEMGR_V3.0.0, X-CUBE-EEPRMA1_V4.1.0, X-CUBE-EEPRMA1_V4.2.0, X-CUBE-FREERTOS_V1.1.0, X-CUBE-GNSS1_V6.0.0, X-CUBE-MEMS1_V10.0.0, X-CUBE-MEMS1_V9.1.0, X-CUBE-MEMS1_V9.4.0, X-CUBE-MEMS1_V9.6.0, X-CUBE-NFC4_V3.0.0, X-CUBE-NFC7_V1.0.1, X-CUBE-SFXS2LP1_V4.0.0, X-CUBE-SUBG2_V5.0.0, X-CUBE-TOF1_V3.4.0]
+2024-03-10 14:04:31,372 [INFO] DbBoardsSqlite:226 - include board P-NUCLEO-WB55-NUCLEO as a kit item of type 'Nucleo-64'
+2024-03-10 14:04:31,372 [INFO] DbBoardsSqlite:226 - include board P-NUCLEO-WB55-USBDONGLE as a kit item of type 'Nucleo USB Dongle'
+2024-03-10 14:04:31,373 [INFO] DbBoardsSqlite:226 - include board STEVAL-IDP005V1 as a kit item of type 'Evaluation Board'
+2024-03-10 14:04:31,373 [INFO] DbBoardsSqlite:226 - include board STEVAL-IDP005V2 as a kit item of type 'Evaluation Board'
+2024-03-10 14:04:31,625 [INFO] ApiDb:240 - Found 371 in-development CPN: [B-G473E-ZEST1S, B-WB1M-WPAN1, B-WL5M-SUBG1, NUCLEO-C031C6, NUCLEO-H503RB, NUCLEO-H563ZI, NUCLEO-U545RE-Q, NUCLEO-U5A5ZJ-Q, NUCLEO-WBA52CG, NUCLEO-WBA55CG, STEVAL-MKBOXPRO, STEVAL-PROTEUS1, STEVAL-STWINBX1, STM320518-EVAL, STM32C0116-DK, STM32C011D6Y3TR, STM32C011D6Y6TR, STM32C011F4P3, STM32C011F4P6, STM32C011F4U3, STM32C011F4U6TR, STM32C011F6P3, STM32C011F6P6, STM32C011F6U3, STM32C011F6U6TR, STM32C011J4M3, STM32C011J4M6, STM32C011J6M3, STM32C011J6M6, STM32C0316-DK, STM32C031C4T3, STM32C031C4T6, STM32C031C4U3, STM32C031C4U6, STM32C031C6T3, STM32C031C6T6, STM32C031C6U3, STM32C031C6U6, STM32C031F4P3, STM32C031F4P6, STM32C031F6P3, STM32C031F6P6, STM32C031G4U3, STM32C031G4U6, STM32C031G6U3, STM32C031G6U6, STM32C031K4T3, STM32C031K4T6, STM32C031K4U3, STM32C031K4U6, STM32C031K6T3, STM32C031K6T6, STM32C031K6U3, STM32C031K6U6, STM32G071K8TXN, STM32G071K8UXN, STM32G081GBU6N, STM32G081KBT6N, STM32G081KBUXN, STM32G0B1CCT6N, STM32G0B1KCT6, STM32G0B1NEY6TR, STM32G0B1RCT6N, STM32G0C1CCT6, STM32G0C1CCT6N, STM32G0C1CCU6N, STM32G0C1CET6N, STM32G0C1CEU6N, STM32G0C1KCT6, STM32G0C1NEY6TR, STM32G0C1RCI6N, STM32G0C1RCT6N, STM32G0C1REI6N, STM32G0C1RET6N, STM32G0C1VCI6, STM32G0C1VEI6, STM32G471CCT6, STM32G471CCU6, STM32G471CET3, STM32G471CET6, STM32G471CEU3, STM32G471CEU6, STM32G471MCT6, STM32G471MET3, STM32G471MET6, STM32G471MEY6TR, STM32G471QCT6, STM32G471QET3, STM32G471RCT6, STM32G471RET3, STM32G471RET6, STM32G471VCH6, STM32G471VCI6, STM32G471VCT6, STM32G471VEH3, STM32G471VEH6, STM32G471VEI3, STM32G471VEI6, STM32G471VET3, STM32G471VET6, STM32G474CCT6, STM32H503CBT6, STM32H503CBU6, STM32H503EBY6TR, STM32H503KBU6, STM32H503RBT6, STM32H562AGI6, STM32H562AII6, STM32H562IGK6, STM32H562IGT6, STM32H562IIK6, STM32H562IIT6, STM32H562RGT6, STM32H562RGV6, STM32H562RIT6, STM32H562RIV6, STM32H562VGT6, STM32H562VIT6, STM32H562ZGT6, STM32H562ZIT6, STM32H563AGI6, STM32H563AII3Q, STM32H563AII6, STM32H563IGK6, STM32H563IGT6, STM32H563IIK3Q, STM32H563IIK6, STM32H563IIT3Q, STM32H563IIT6, STM32H563MIY3QTR, STM32H563RGT6, STM32H563RGV6, STM32H563RIT6, STM32H563RIV6, STM32H563VGT6, STM32H563VIT3Q, STM32H563VIT6, STM32H563ZGT6, STM32H563ZIT3Q, STM32H563ZIT6, STM32H573AII3Q, STM32H573AII6, STM32H573I-DK, STM32H573IIK3Q, STM32H573IIK6, STM32H573IIT3Q, STM32H573IIT6, STM32H573MIY3QTR, STM32H573RIT6, STM32H573RIV6, STM32H573VIT3Q, STM32H573VIT6, STM32H573ZIT3Q, STM32H573ZIT6, STM32L4R5QGI6STR, STM32MP131AAE3, STM32MP131AAF3, STM32MP131AAG3, STM32MP131CAE3, STM32MP131CAF3, STM32MP131CAG3, STM32MP131DAE7, STM32MP131DAF7, STM32MP131DAG7, STM32MP131FAE7, STM32MP131FAF7, STM32MP131FAG7, STM32MP133AAE3, STM32MP133AAF3, STM32MP133AAG3, STM32MP133CAE3, STM32MP133CAF3, STM32MP133CAG3, STM32MP133DAE7, STM32MP133DAF7, STM32MP133DAG7, STM32MP133FAE7, STM32MP133FAF7, STM32MP133FAG7, STM32MP135AAE3, STM32MP135AAF3, STM32MP135AAG3, STM32MP135CAE3, STM32MP135CAF3, STM32MP135CAG3, STM32MP135DAE7, STM32MP135DAF7, STM32MP135DAG7, STM32MP135F-DK, STM32MP135FAE7, STM32MP135FAF7, STM32MP135FAF7T, STM32MP135FAF7U, STM32MP135FAG7, STM32U535CBT6, STM32U535CBT6Q, STM32U535CBU6, STM32U535CBU6Q, STM32U535CCT6, STM32U535CCT6Q, STM32U535CCU6, STM32U535CCU6Q, STM32U535CET6, STM32U535CET6Q, STM32U535CEU6, STM32U535CEU6Q, STM32U535JEY6QTR, STM32U535NCY6QTR, STM32U535NEY6QTR, STM32U535RBI6, STM32U535RBI6Q, STM32U535RBT6, STM32U535RBT6Q, STM32U535RCI6, STM32U535RCI6Q, STM32U535RCT6, STM32U535RCT6Q, STM32U535REI6, STM32U535REI6Q, STM32U535RET6, STM32U535RET6Q, STM32U535VCI6, STM32U535VCI6Q, STM32U535VCT6, STM32U535VCT6Q, STM32U535VEI6, STM32U535VEI6Q, STM32U535VET6, STM32U535VET6Q, STM32U545CET6, STM32U545CET6Q, STM32U545CEU6, STM32U545CEU6Q, STM32U545JEY6QTR, STM32U545NEY6QTR, STM32U545REI6, STM32U545REI6Q, STM32U545RET6, STM32U545RET6Q, STM32U545VEI6, STM32U545VEI6Q, STM32U545VET6, STM32U545VET6Q, STM32U595AIH6, STM32U595AIH6Q, STM32U595AJH6, STM32U595AJH6Q, STM32U595QII6, STM32U595QII6Q, STM32U595QJI6, STM32U595QJI6Q, STM32U595RIT6, STM32U595RIT6Q, STM32U595RJT6, STM32U595RJT6Q, STM32U595VIT6, STM32U595VIT6Q, STM32U595VJT6, STM32U595VJT6Q, STM32U595ZIT6, STM32U595ZIT6Q, STM32U595ZIY6QTR, STM32U595ZJT6, STM32U595ZJT6Q, STM32U595ZJY6QTR, STM32U599BJY6QTR, STM32U599NIH6Q, STM32U599NJH6Q, STM32U599VIT6Q, STM32U599VJT6, STM32U599VJT6Q, STM32U599ZIT6Q, STM32U599ZIY6QTR, STM32U599ZJT6Q, STM32U599ZJY6QTR, STM32U5A5AJH6, STM32U5A5AJH6Q, STM32U5A5QJI6, STM32U5A5QJI6Q, STM32U5A5RJT6, STM32U5A5RJT6Q, STM32U5A5VJT6, STM32U5A5VJT6Q, STM32U5A5ZJT6, STM32U5A5ZJT6Q, STM32U5A5ZJY6QTR, STM32U5A9BJY6QTR, STM32U5A9J-DK, STM32U5A9NJH6Q, STM32U5A9VJT6Q, STM32U5A9ZJT6Q, STM32U5A9ZJY6QTR, STM32U5F7VIT6, STM32U5F7VIT6Q, STM32U5F7VJT6, STM32U5F7VJT6Q, STM32U5F9BJY6QTR, STM32U5F9NJH6Q, STM32U5F9VIT6Q, STM32U5F9VJT6Q, STM32U5F9ZIJ6QTR, STM32U5F9ZIT6Q, STM32U5F9ZJJ6QTR, STM32U5F9ZJT6Q, STM32U5G7VJT6, STM32U5G7VJT6Q, STM32U5G9BJY6QTR, STM32U5G9J-DK1, STM32U5G9J-DK2, STM32U5G9NJH6Q, STM32U5G9VJT6Q, STM32U5G9ZJJ6QTR, STM32U5G9ZJT6Q, STM32WB1MMCH6, STM32WBA50KEU6, STM32WBA50KEU6TR, STM32WBA50KGU6, STM32WBA50KGU6TR, STM32WBA52CEU6, STM32WBA52CEU6TR, STM32WBA52CEU7, STM32WBA52CEU7TR, STM32WBA52CGU6, STM32WBA52CGU6TR, STM32WBA52CGU6U, STM32WBA52CGU7, STM32WBA52CGU7TR, STM32WBA52KEU6, STM32WBA52KEU6TR, STM32WBA52KGU6, STM32WBA52KGU6TR, STM32WBA54CEU6, STM32WBA54CEU6TR, STM32WBA54CEU7, STM32WBA54CEU7TR, STM32WBA54CGU6, STM32WBA54CGU6TR, STM32WBA54CGU7, STM32WBA54CGU7TR, STM32WBA54KEU6, STM32WBA54KEU6TR, STM32WBA54KEU7, STM32WBA54KEU7TR, STM32WBA54KGU6, STM32WBA54KGU6TR, STM32WBA54KGU7, STM32WBA54KGU7TR, STM32WBA55CEU6, STM32WBA55CEU6TR, STM32WBA55CEU7, STM32WBA55CEU7TR, STM32WBA55CGU6, STM32WBA55CGU6TR, STM32WBA55CGU6U, STM32WBA55CGU7, STM32WBA55CGU7TR, STM32WBA55G-DK1, STM32WBA55HEF6, STM32WBA55HEF7, STM32WBA55HGF6, STM32WBA55HGF7, STM32WBA55UEI6, STM32WBA55UEI6TR, STM32WBA55UEI7, STM32WBA55UEI7TR, STM32WBA55UGI6, STM32WBA55UGI6TR, STM32WBA55UGI7, STM32WBA55UGI7TR, STM32WL5MOCH6, STM32WL5MOCH6TR]
+2024-03-10 14:04:31,706 [INFO] BoardInfo:889 - No configuration file found for board P-NUCLEO-WB55
+2024-03-10 14:04:31,706 [INFO] DbBoards:161 - Kit is not supported: P-NUCLEO-WB55
+2024-03-10 14:04:31,709 [INFO] BoardInfo:889 - No configuration file found for board STEVAL-BFA001V1B
+2024-03-10 14:04:31,709 [INFO] DbBoards:161 - Kit is not supported: STEVAL-BFA001V1B
+2024-03-10 14:04:31,709 [INFO] BoardInfo:889 - No configuration file found for board STEVAL-BFA001V2B
+2024-03-10 14:04:31,710 [INFO] DbBoards:161 - Kit is not supported: STEVAL-BFA001V2B
+2024-03-10 14:04:31,780 [INFO] DbBoards:168 - Found 193 boards, 190 are supported
+2024-03-10 14:04:31,780 [INFO] DbBoards:169 - Found 193 boards, 3 of them is supported for  Bsp
+2024-03-10 14:04:31,784 [INFO] ApiDb:423 - Load user favorites file C:\Users\Alex/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2024-03-10 14:04:31,784 [INFO] ApiDb:427 - User favorites Boards=[]
+2024-03-10 14:04:31,784 [INFO] DbBoards:198 - Set 0 / 0 favorites Boards
+2024-03-10 14:04:31,832 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 441748456 Bytes (623902720)
+2024-03-10 14:04:31,849 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-03-10 14:04:31,849 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.100
+2024-03-10 14:04:31,849 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-03-10 14:04:31,849 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USBPD 4.1
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.3
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.5.1
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.3.1
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.3.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.1
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.1.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-03-10 14:04:31,849 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-03-10 14:04:31,850 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-03-10 14:04:31,850 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-03-10 14:04:31,850 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-03-10 14:04:31,850 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-03-10 14:04:31,850 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-03-10 14:04:31,850 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-03-10 14:04:31,850 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.0
+2024-03-10 14:04:31,850 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-03-10 14:04:31,850 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-03-10 14:04:31,850 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-03-10 14:04:31,908 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-03-10 14:04:31,911 [INFO] PinOutPanel:1499 - setPackage(STM32WB55CEUx,UFQFPN48)
+2024-03-10 14:04:32,073 [INFO] UtilMem:75 - Before build in PCC Used Memory: 344769880 Bytes (623902720)

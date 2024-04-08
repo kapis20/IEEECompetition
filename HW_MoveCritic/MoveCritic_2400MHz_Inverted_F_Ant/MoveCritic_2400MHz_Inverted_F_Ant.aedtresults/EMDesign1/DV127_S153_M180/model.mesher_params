@@ -1,0 +1,30 @@
+$begin 'params'
+	tp=true
+	prj='MoveCritic_2400MHz_Inverted_F_Ant'
+	ssdn='EMDesign1'
+	ss='Setup1'
+	ssovr=''
+	dn='EMDesign1'
+	$begin 'tcxt'
+		''[1: 'EMDesign1']
+	$end 'tcxt'
+	$begin 'cxt'
+		''[1: 'EMDesign1']
+	$end 'cxt'
+	vk=''
+	q3d=true
+	ra=false
+	ed='$begin \'ExportData\'\
+\	$begin \'airbox\'\
+\	\	abe(cw=false, cl=true, pt(U=\'mm\', x=-4.0791300000000007e+01, y=1.3031300000000000e+01, x=-4.0791300000000007e+01, y=-2.7251300000000004e+01, x=1.1991300000000006e+01, y=-2.7251300000000004e+01, x=1.1991300000000004e+01, y=1.3031300000000000e+01, x=-4.0791300000000007e+01, y=1.3031300000000000e+01))\
+\	\	abl=-3.1199999999999999e-03\
+\	\	abu=4.6800000000000001e-03\
+\	\	mat=\'air\'\
+\	\	nab=false\
+\	$end \'airbox\'\
+$end \'ExportData\'\
+'
+	NumDesktopProcessors=9
+	ProdMajVerID=2022
+	ProdMinVerID=2
+$end 'params'

@@ -1,0 +1,24 @@
+$begin 'MeshPortMap'
+	MajorVersionID=2022
+	MinorVersionID=2
+	TerminalIDs(Port1=14, 'Port1#ref'=7)
+	$begin 'Terminals'
+		$begin 'Port1'
+			Points[12: -5.0000000000000001e-04, -2.8000000000000000e-03, 1.5249999999999999e-03, -5.0000000000000001e-04, -2.9649999999999998e-03, 1.5249999999999999e-03, -5.0000000000000001e-04, -3.1349999999999998e-03, 1.5249999999999999e-03, -5.0000000000000001e-04, -3.3000000000000000e-03, 1.5249999999999999e-03]
+			TermType=0
+			BodyId=13
+		$end 'Port1'
+		$begin 'Port1#ref'
+			Points[6: -5.0000000000000001e-04, -2.8000000000000000e-03, 1.4150000000000000e-03, -5.0000000000000001e-04, -3.3000000000000000e-03, 1.4150000000000000e-03]
+			TermType=0
+			BodyId=6
+		$end 'Port1#ref'
+	$end 'Terminals'
+	SolverPortOrder('Port1', 'Port1#ref')
+	$begin 'Q3dPortMap'
+		$begin 'Port1'
+			Pos(1, 310)
+			Neg(1, 312)
+		$end 'Port1'
+	$end 'Q3dPortMap'
+$end 'MeshPortMap'

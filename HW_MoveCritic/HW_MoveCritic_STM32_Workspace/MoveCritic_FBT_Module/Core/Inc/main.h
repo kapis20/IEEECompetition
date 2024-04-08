@@ -28,6 +28,9 @@ extern "C" {
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32wbxx_hal.h"
+#include "app_conf.h"
+#include "app_entry.h"
+#include "app_common.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
@@ -49,6 +52,8 @@ extern "C" {
 
 /* USER CODE END EM */
 
+void HAL_TIM_MspPostInit(TIM_HandleTypeDef *htim);
+
 /* Exported functions prototypes ---------------------------------------------*/
 void Error_Handler(void);
 
@@ -57,12 +62,12 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
-#define BNO_NINT_Pin GPIO_PIN_5
-#define BNO_NINT_GPIO_Port GPIOB
-#define BNO_NRST_Pin GPIO_PIN_6
-#define BNO_NRST_GPIO_Port GPIOB
-#define BNO_NBOOT_Pin GPIO_PIN_7
-#define BNO_NBOOT_GPIO_Port GPIOB
+#define TIM2_CH4_LED_Pin GPIO_PIN_3
+#define TIM2_CH4_LED_GPIO_Port GPIOA
+#define SPI1_CS_Pin GPIO_PIN_4
+#define SPI1_CS_GPIO_Port GPIOA
+#define IMU_INT_Pin GPIO_PIN_8
+#define IMU_INT_GPIO_Port GPIOA
 
 /* USER CODE BEGIN Private defines */
 

@@ -1,0 +1,25 @@
+Reference,Value,Datasheet,Footprint,Qty,Mfr_Part_No
+"C1,C2,C3,C4,C5,C6,C8,C10,C20,C21,C25",0u1,https://www.mouser.co.uk/datasheet/2/40/cx5r_KGM-3223198.pdf ,Capacitor_SMD:C_0201_0603Metric,11,KGM03AR51A104KN
+"C7,C9,C11,C16,C17,C18,C19,C22,C24",4u7,https://www.mouser.co.uk/datasheet/2/40/cx5r_KGM-3223198.pdf,Capacitor_SMD:C_0201_0603Metric,9,KGM03DR50J475MH
+"C12,C13",10p,https://www.mouser.co.uk/datasheet/2/40/C0GNP0_KGM-3216332.pdf,Capacitor_SMD:C_0402_1005Metric,2,KGM05ACG1C100KH
+C14,0p8,https://www.mouser.co.uk/datasheet/2/447/KEM_C1121_CBR_AUTO-3316745.pdf,Capacitor_SMD:C_0402_1005Metric,1,GRM1555C1HR50BA01D
+C15,0p3,https://www.mouser.co.uk/datasheet/2/281/1/GRM1555C1HR30BA01_01A-1983029.pdf,Capacitor_SMD:C_0402_1005Metric,1,GRM1555C1HR30BA01J
+C23,100p,https://www.mouser.co.uk/datasheet/2/40/KGM_X7R-3223212.pdf,Capacitor_SMD:C_0201_0603Metric,1,KGM03AR71H101KH
+D1,B5819W,https://www.mouser.co.uk/datasheet/2/258/B5817W_B5819W_SOD_123_-1816268.pdf,Diode_SMD:D_SOD-123,1,B5819W-TP
+D2,LED,https://www.we-online.com/components/products/datasheet/150040RS73240.pdf,LED_SMD:LED_0402_1005Metric,1,150040RS73240
+FLT1,DLF162500LT-5028A1,https://product.tdk.com/system/files/dam/doc/product/rf/rf/filter/catalog/rf_lpf_dlf162500lt-5028a1_en.pdf,HW_MoveCritic_Footprints:DLF162500LT-5028A1,1,DLF162500LT-5028A1
+J1,JST_PH_2.00mm,https://www.jst-mfg.com/product/pdf/eng/ePH.pdf,Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,1,B2B-PH-K-S
+J3,USB_C_Receptacle_USB2.0,https://www.mouser.co.uk/datasheet/2/837/Global_Connector_Technology_usb4105-3106202.pdf,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,1,USB4105-GF-A-120
+L1,10n,https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/ASCH0010050510NJ,Inductor_SMD:L_0402_1005Metric,1,ASCH0010050510NJCP
+L2,10u,https://www.mouser.co.uk/datasheet/2/396/Taiyo_Yuden_LSQ02_e-3370445.pdf,Inductor_SMD:L_0805_2012Metric,1,LSQNA201212T100KR
+L3,2n7,https://www.mouser.co.uk/datasheet/2/281/1/JELF243B_0010-1699614.pdf,Inductor_SMD:L_0402_1005Metric,1,LQG15HS2N7S02
+"R1,R2",1k,https://www.mouser.co.uk/datasheet/2/315/AOA0000C307-1149632.pdf,Resistor_SMD:R_0603_1608Metric,2,ERA-3ARW102V
+"R3,R4",5k1,https://www.mouser.co.uk/datasheet/2/447/PYu_RP_51_RoHS_L_0-3071169.pdf,Resistor_SMD:R_0402_1005Metric,2,RP0402BRD075K1L
+R5,220R,https://www.mouser.co.uk/datasheet/2/315/AOA0000C304-1149620.pdf,Resistor_SMD:R_0201_0603Metric,1,ERJ-1GJF2200C
+U1,STM32WB55CEU6,https://www.mouser.co.uk/datasheet/2/389/dm00344191-1798909.pdf,Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm,1,STM32WB55CEU6
+U2,USBLC6-2P6,https://www.mouser.co.uk/datasheet/2/389/cd00050750-1796222.pdf,Package_TO_SOT_SMD:SOT-666,1,USBLC6-2P6
+U3,MIC5365-3.3YD5,https://www.mouser.co.uk/datasheet/2/268/mic5365-1082359.pdf,Package_TO_SOT_SMD:SOT-23-5,1,MIC5365-3.3YD5-TR
+U4,ICM-20948,https://invensense.tdk.com/wp-content/uploads/2016/06/DS-000189-ICM-20948-v1.3.pdf?ref_disty=digikey,Sensor_Motion:InvenSense_QFN-24_3x3mm_P0.4mm,1,ICM-20948
+U5,MIC5365-1.8YD5,https://www.mouser.co.uk/datasheet/2/268/mic5365-1082359.pdf,Package_TO_SOT_SMD:SOT-23-5,1,MIC5365-1.8YD5-TR
+X1,32KHz768,https://www.we-online.com/components/products/datasheet/830009678.pdf,830009678:830009678,1,830009678
+X2,32MHz,https://www.mouser.co.uk/datasheet/2/741/LFXTAL061677Reel-1519358.pdf,Crystal:Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm,1,LFXTAL061677Reel

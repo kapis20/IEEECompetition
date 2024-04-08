@@ -1,0 +1,2 @@
+preserve_facet_ids 1
+read bpsm 1.0 model.bpsm 1 1

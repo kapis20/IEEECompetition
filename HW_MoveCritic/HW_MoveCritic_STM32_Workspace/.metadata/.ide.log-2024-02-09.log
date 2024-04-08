@@ -1,0 +1,218 @@
+2024-02-10 11:08:02,456 [INFO] MainUpdater:2868 - connection check result : 10
+2024-02-10 11:08:02,609 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2024-02-10 11:08:02,610 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-02-10 11:08:02,611 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2024-02-10 11:08:03,157 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-02-10 11:08:03,158 [INFO] DetailPanel:341 - Set advertising image to C:/Users/Alex/STM32Cube/Repository/\en.prom-stm32wl3-mcu-finder.jpg
+2024-02-10 11:08:20,232 [INFO] ApiDb:581 - Connected to CubeFinder SQLite database (C:\Users\Alex\.stmcufinder\plugins\mcufinder\mcu\cube-finder-db.db)
+2024-02-10 11:11:43,872 [INFO] MainUpdater:2868 - connection check result : 10
+2024-02-10 11:11:43,872 [INFO] MainUpdater:2868 - connection check result : 10
+2024-02-10 11:11:43,900 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-02-10 11:11:43,900 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.92
+2024-02-10 11:11:43,904 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-02-10 11:11:43,904 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-02-10 11:11:43,905 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-02-10 11:11:43,906 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-02-10 11:11:43,909 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 743468584 Bytes (1040187392)
+2024-02-10 11:11:43,910 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-02-10 11:11:43,911 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.92
+2024-02-10 11:11:43,911 [INFO] OpenFileManager:308 - Change cursor
+2024-02-10 11:11:43,951 [INFO] Mcu:1946 - Initializing MCU STM32WB55CEUx STM32WB55CEUx STM32WB55CEU7
+2024-02-10 11:11:44,952 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-02-10 11:11:45,290 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2024-02-10 11:11:45,290 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2024-02-10 11:11:45,290 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2024-02-10 11:11:45,417 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-02-10 11:11:45,417 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-02-10 11:11:45,417 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-02-10 11:11:45,417 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-02-10 11:11:45,418 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-02-10 11:11:45,427 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,428 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-02-10 11:11:45,487 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-02-10 11:11:45,839 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-02-10 11:11:45,972 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 881917800 Bytes (1073741824)
+2024-02-10 11:11:46,051 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-02-10 11:11:46,051 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USBPD 4.1
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.3
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.5.1
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.3.1
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.3.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-02-10 11:11:46,051 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.1
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-02-10 11:11:46,052 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-02-10 11:11:46,238 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-02-10 11:11:46,239 [INFO] PinOutPanel:1499 - setPackage(STM32WB55CEUx,UFQFPN48)
+2024-02-10 11:11:46,592 [INFO] UtilMem:75 - Before build in PCC Used Memory: 618396760 Bytes (1073741824)
+2024-02-10 11:11:47,424 [INFO] UtilMem:75 - After build in PCC Used Memory: 720634968 Bytes (1073741824)
+2024-02-10 11:11:47,442 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,442 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,442 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,442 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,442 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,442 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,444 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,444 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,444 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,444 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,444 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,444 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,444 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,444 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,445 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,445 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,445 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,445 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,445 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,445 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,445 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,445 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,445 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,445 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,445 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,446 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,446 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,446 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,446 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,446 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,446 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,446 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,447 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,447 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,447 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,447 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,447 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,448 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,448 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,448 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,448 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,448 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-02-10 11:11:47,648 [INFO] CADModel:165 - CPN selected for project levelSTM32WB55CEU7
+2024-02-10 11:11:47,648 [INFO] CADModel:114 - Register for checkConnection events
+2024-02-10 11:11:47,697 [INFO] OpenFileManager:328 - Restore cursor
+2024-02-10 11:11:49,160 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 802423896 Bytes (1073741824)
+2024-02-10 11:11:49,181 [WARN] Context:732 - Trying to set MEMORYMAP twice on same context Cortex-M4NS
+2024-02-10 11:12:06,418 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2024-02-10 11:12:06,419 [INFO] ApiDb:448 - Save user favorites file C:\Users\Alex/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2024-02-10 11:12:06,420 [INFO] ApiDb:452 - User favorites MCUs=[]
+2024-02-10 11:12:36,155 [INFO] HwResourcesManager:1388 - RZone for current mcu STM32WB55CEUx : STM32_DIE495_256_512
+2024-02-10 11:12:36,168 [INFO] HwResourcesManager:368 - Memory Region Flash added without MPC
+2024-02-10 11:12:36,170 [INFO] HwResourcesManager:368 - Memory Region SRAM2_C added without MPC
+2024-02-10 11:12:36,171 [INFO] HwResourcesManager:368 - Memory Region SRAM1 added without MPC
+2024-02-10 11:12:36,173 [INFO] HwResourcesManager:368 - Memory Region SRAM2 added without MPC
+2024-02-10 11:12:36,179 [INFO] MemInfoExtractor$OctoQuadSPIInfoExtractor:1214 - Cannot find QUADSPI start address in the info provided by HWResourceManager => Set it to the default value
+2024-02-10 11:12:36,384 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 11:12:36,386 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 11:12:36,521 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 11:12:36,646 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 11:12:36,647 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 11:12:36,743 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 11:12:36,803 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 11:12:36,805 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 11:17:39,747 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 11:17:39,749 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 11:17:39,837 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 16:56:27,703 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 16:56:27,704 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 16:56:27,982 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 16:56:27,993 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 16:56:43,656 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 16:56:43,792 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 16:57:44,172 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 19:37:31,097 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 19:37:54,282 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 19:58:15,712 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH
+2024-02-10 19:58:15,714 [ERROR] HwResourcesManager:1716 - Cannot find MPC for the given IP: FLASH

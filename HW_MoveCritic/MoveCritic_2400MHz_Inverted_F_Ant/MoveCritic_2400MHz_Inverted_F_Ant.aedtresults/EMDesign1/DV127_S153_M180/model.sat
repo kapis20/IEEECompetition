@@ -1,0 +1,57 @@
+nets 4
+	net 0
+		solids 1
+			1
+		thinconductors 0
+		sources 0
+		thinsources 0
+		sinks 0
+		thinsinks 0
+	net 2
+		solids 1
+			10
+		thinconductors 0
+		sources 0
+		thinsources 0
+		sinks 0
+		thinsinks 0
+	net 1
+		solids 3
+			6 13 16
+		thinconductors 0
+		sources 1
+			312 1 312
+		thinsources 0
+		sinks 1
+			310 1 310
+		thinsinks 0
+	net 3
+		solids 1
+			12
+		thinconductors 0
+		sources 0
+		thinsources 0
+		sinks 0
+		thinsinks 0
+end_nets
+solids 14
+a 18 0.00000000 1.00060000
+a 1 58000000.00000000 1.00000000
+a 2 0.00000000 4.40000000
+a 3 0.00000000 4.29000000
+a 4 0.00000000 4.60000000
+a 5 0.00000000 4.29000000
+a 6 58000000.00000000 1.00000000
+a 9 0.00000000 4.40000000
+a 10 58000000.00000000 1.00000000
+a 11 0.00000000 4.40000000
+a 12 58000000.00000000 1.00000000
+a 13 58000000.00000000 1.00000000
+a 15 0.00000000 4.40000000
+a 16 58000000.00000000 1.00000000
+end_solids
+thinconductors 0
+end_thinconductors
+TerminalOrdering
+Terminals 1 312
+end_TerminalOrdering

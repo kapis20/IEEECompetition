@@ -15,7 +15,7 @@
       "r_low_arm": 12,
       "r_up_arm": 13,
       "r_shoulder": 14,
-      "head": 15,
+      "head": "head",
       "chest": 16,
       "waist": 17,
       "hip": 18

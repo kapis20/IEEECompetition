@@ -1,0 +1,39 @@
+2024-02-26 08:39:08,761 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 224590608 Bytes (622854144)
+2024-02-26 08:39:11,494 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 237697808 Bytes (622854144)
+2024-02-26 08:39:12,656 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 265005904 Bytes (622854144)
+2024-02-26 08:39:13,674 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-02-26 08:39:13,675 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: MEMORYMAP
+2024-02-26 08:39:13,675 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2024-02-26 08:39:13,675 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-02-26 08:39:13,675 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-02-26 08:39:13,675 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-02-26 08:39:13,675 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-02-26 08:39:13,676 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-02-26 08:39:14,080 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\license.tmp_save
+2024-02-26 08:39:14,853 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\license.tmp
+2024-02-26 08:39:15,278 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\gpio.tmp_save
+2024-02-26 08:39:15,462 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\gpio.tmp
+2024-02-26 08:39:15,653 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MEMORYMAP ip!!
+2024-02-26 08:39:15,653 [WARN] IP:2119 - DefaultDataRegion not found: check if there is a RefParameter without a condition.
+2024-02-26 08:39:16,136 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\stm32wbxx_it.c_save
+2024-02-26 08:39:16,500 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\stm32wbxx_it.c
+2024-02-26 08:39:16,528 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\stm32wbxx_it.h_save
+2024-02-26 08:39:16,711 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\stm32wbxx_it.h
+2024-02-26 08:39:16,781 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\stm32wbxx_hal_msp.c_save
+2024-02-26 08:39:17,533 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\stm32wbxx_hal_msp.c
+2024-02-26 08:39:17,553 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\system.tmp_save
+2024-02-26 08:39:17,622 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\system.tmp
+2024-02-26 08:39:17,659 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\stm32wbxx_hal_conf.h_save
+2024-02-26 08:39:17,769 [INFO] CodeEngine:335 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\stm32wbxx_hal_conf.h
+2024-02-26 08:39:17,811 [WARN] IPConfigManager:2946 - Warning: the RefConfig RCC_PClockConfig is not available in your config.xml file
+2024-02-26 08:39:17,858 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\main.h_save
+2024-02-26 08:39:17,986 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\main.h
+2024-02-26 08:39:18,026 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\main.c_save
+2024-02-26 08:39:18,240 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\main.c
+2024-02-26 08:39:19,314 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 717mS.
+2024-02-26 08:39:19,321 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-02-26 08:39:19,596 [INFO] ConfigFileManager:1495 - The Die is : DIE495
+2024-02-26 08:39:19,623 [INFO] ApiDbMcu:508 - Load IP Config File for FATFS
+2024-02-26 08:39:19,665 [INFO] ApiDbMcu:508 - Load IP Config File for FREERTOS
+2024-02-26 08:39:19,728 [INFO] ApiDbMcu:508 - Load IP Config File for STM32_WPAN
+2024-02-26 08:39:19,771 [INFO] ApiDbMcu:508 - Load IP Config File for USB_Device

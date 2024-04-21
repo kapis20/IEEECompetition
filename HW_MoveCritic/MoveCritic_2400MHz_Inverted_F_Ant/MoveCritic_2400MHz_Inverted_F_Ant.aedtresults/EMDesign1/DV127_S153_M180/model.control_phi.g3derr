@@ -1,0 +1,25 @@
+G3dErrFileVersion 2018P3.1
+FlagFileMetaData Begin
+   Phi mesher for ECAD Report of illegal tets :Title    
+    :ToolTip  
+   Classic :Author   
+   1710499179 :TimeStamp
+FlagFileMetaData End
+BEGIN_ERR 
+26 Phi mesher floor facet association failure.
+ Phi mesher floor facet association failure. 
+ Phi mesher could not determine triangle-facet-body associations at these interfaces near these bodies Inner1.Cu#t=fill Dielectric1 Port1#ref_SOURCE 
+4 0  182  61  313  # nfids, fids[]
+0 # nbids, bids[]
+      0 0 0 0 #ntets ntri ned npts
+   0   0.000000000000e+00   0.000000000000e+00   0.000000000000e+00 #flag location
+END_ERR 
+BEGIN_ERR 
+26 Phi mesher floor facet association failure.
+ Phi mesher floor facet association failure. 
+ Phi mesher could not determine triangle-facet-body associations at these interfaces near these bodies Inner1.Cu#t=fill Dielectric1 Port1#ref_SOURCE 
+4 0  182  61  313  # nfids, fids[]
+0 # nbids, bids[]
+      0 0 0 0 #ntets ntri ned npts
+   0   0.000000000000e+00   0.000000000000e+00   0.000000000000e+00 #flag location
+END_ERR 

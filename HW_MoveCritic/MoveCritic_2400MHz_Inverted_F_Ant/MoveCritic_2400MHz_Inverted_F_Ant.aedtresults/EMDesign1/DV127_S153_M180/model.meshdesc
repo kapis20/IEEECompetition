@@ -1,0 +1,199 @@
+$begin 'Header'
+	Version=16
+$end 'Header'
+$begin 'MeshBodies'
+	$begin 'Bodies'
+		$begin 'MeshBody'
+			Id=18
+			Nam='airbox'
+			Mat='air'
+			Diel=true
+			Type='Airbox'
+			BottomFaceID=307
+			TopFaceID=308
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=1
+			Nam='Bottom.Cu'
+			Mat='copper'
+			Layer='Bottom.Cu'
+			Priority=1
+			Thickness=3.4920578321544202e-05
+			Group=0
+			Net='Bottom.Cu'
+			BottomFaceID=20
+			TopFaceID=19
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=2
+			Nam='Bottom.Cu#t=fill'
+			Mat='FR4_epoxy'
+			Layer='Bottom.Cu#t=fill'
+			Diel=true
+			Thickness=3.5000000000000004e-05
+			BottomFaceID=43
+			TopFaceID=41
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=3
+			Nam='Dielectric1'
+			Mat='FR4_PCBWay'
+			Layer='Dielectric1'
+			Diel=true
+			Thickness=-1.0000000000000000e+00
+			BottomFaceID=61
+			TopFaceID=60
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=4
+			Nam='Dielectric2(Core)'
+			Mat='FR4_PCBWay_Core'
+			Layer='Dielectric2(Core)'
+			Diel=true
+			Thickness=-1.0000000000000000e+00
+			BottomFaceID=91
+			TopFaceID=89
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=5
+			Nam='Dielectric3'
+			Mat='FR4_PCBWay'
+			Layer='Dielectric3'
+			Diel=true
+			Thickness=-1.0000000000000000e+00
+			BottomFaceID=126
+			TopFaceID=124
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=6
+			Nam='Inner1.Cu'
+			Mat='copper'
+			Layer='Inner1.Cu'
+			Priority=1
+			Thickness=3.4920976752016905e-05
+			Group=1
+			Net='Port1_SINK'
+			BottomFaceID=160
+			TopFaceID=159
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=9
+			Nam='Inner1.Cu#t=fill'
+			Mat='FR4_epoxy'
+			Layer='Inner1.Cu#t=fill'
+			Diel=true
+			Thickness=3.5000000000000004e-05
+			BottomFaceID=183
+			TopFaceID=182
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=8
+			Nam='Inner1.Cu_Port1#ref_supporting_mesh'
+			Mat='copper'
+			Layer='Inner1.Cu'
+			Sheet=true
+			Priority=1
+			Thickness=1.7499999999999998e-05
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=10
+			Nam='Inner2.Cu'
+			Mat='copper'
+			Layer='Inner2.Cu'
+			Priority=1
+			Thickness=3.4920175859205220e-05
+			Group=2
+			Net='Inner2.Cu'
+			BottomFaceID=189
+			TopFaceID=188
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=11
+			Nam='Inner2.Cu#t=fill'
+			Mat='FR4_epoxy'
+			Layer='Inner2.Cu#t=fill'
+			Diel=true
+			Thickness=3.5000000000000004e-05
+			BottomFaceID=223
+			TopFaceID=221
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=17
+			Nam='Port#Port1'
+			Mat='pec'
+			DesNam='Port1'
+			Sheet=true
+			Type='Port'
+			Priority=1
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=312
+			Nam='Port1#ref_SOURCE'
+			Mat='pec'
+			DesNam='Port1#ref'
+			Sheet=true
+			Type='Source'
+			Group=1
+			Net='Port1_SINK'
+			BottomFaceID=313
+			TopFaceID=313
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=310
+			Nam='Port1_SINK'
+			Mat='pec'
+			DesNam='Port1'
+			Sheet=true
+			Type='Sink'
+			Group=1
+			Net='Port1_SINK'
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=12
+			Nam='Upper.Cu'
+			Mat='copper'
+			Layer='Upper.Cu'
+			Priority=1
+			Thickness=3.4903419346856442e-05
+			Group=3
+			Net='Upper.Cu'
+			BottomFaceID=243
+			TopFaceID=240
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=13
+			Nam='Upper.Cu#L1'
+			Mat='copper'
+			DesNam='Upper.Cu'
+			Layer='Upper.Cu'
+			Priority=1
+			Thickness=3.2897040611521599e-05
+			Group=1
+			Net='Port1_SINK'
+			BottomFaceID=271
+			TopFaceID=266
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=15
+			Nam='Upper.Cu#t=fill'
+			Mat='FR4_epoxy'
+			Layer='Upper.Cu#t=fill'
+			Diel=true
+			Thickness=3.5000000000000004e-05
+			BottomFaceID=297
+			TopFaceID=296
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=16
+			Nam='via_23'
+			Mat='copper'
+			Priority=1
+			Thickness=1.5000000000000004e-04
+			Subtype=2
+			Group=1
+			Net='Port1_SINK'
+			BottomFaceID=303
+			TopFaceID=304
+		$end 'MeshBody'
+	$end 'Bodies'
+$end 'MeshBodies'

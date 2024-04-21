@@ -1,0 +1,315 @@
+2024-03-10 14:04:32,185 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,203 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,204 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,204 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,204 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,209 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,209 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,209 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,210 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,210 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,211 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,211 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,211 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,212 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,212 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,212 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,212 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,213 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,213 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,213 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,215 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,217 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,217 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,217 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,218 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,218 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,219 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,219 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,219 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,219 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,257 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,257 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,257 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,257 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,258 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Sleepy End Device Min <200 3.3
+2024-03-10 14:04:32,290 [INFO] UtilMem:75 - After build in PCC Used Memory: 417121624 Bytes (623902720)
+2024-03-10 14:04:32,299 [INFO] ApiDbMcu:508 - Load IP Config File for STM32_WPAN
+2024-03-10 14:04:32,302 [INFO] ApiDbMcu:508 - Load IP Config File for USB_Device
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,302 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,310 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,310 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,310 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,311 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,312 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,312 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,312 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,312 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,312 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,312 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,312 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,312 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,312 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,312 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,312 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,312 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,313 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,313 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,313 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,313 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,313 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,313 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,313 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,314 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,314 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,314 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-10 14:04:32,329 [WARN] IP:2119 - SERVICE1_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:32,330 [WARN] IP:2119 - SERVICE2_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:32,332 [WARN] IP:2119 - SERVICE3_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:32,334 [WARN] IP:2119 - SERVICE4_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:32,335 [WARN] IP:2119 - SERVICE5_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:32,426 [INFO] CADModel:165 - CPN selected for project levelSTM32WB55CEU7
+2024-03-10 14:04:32,426 [INFO] CADModel:114 - Register for checkConnection events
+2024-03-10 14:04:32,469 [INFO] OpenFileManager:343 - Restore cursor
+2024-03-10 14:04:32,581 [WARN] IP:2119 - SERVICE1_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:32,582 [WARN] IP:2119 - SERVICE2_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:32,584 [WARN] IP:2119 - SERVICE3_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:32,585 [WARN] IP:2119 - SERVICE4_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:32,587 [WARN] IP:2119 - SERVICE5_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:32,619 [WARN] IpParametersView:151 - Warning: This peripheral hasn't parameters
+2024-03-10 14:04:32,629 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,629 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,629 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,629 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,629 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,629 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,630 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,630 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,630 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,630 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,630 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,630 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,630 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,630 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,630 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:32,630 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:38,311 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "AWT-EventQueue-0" java.lang.ClassCastException: class sun.awt.windows.WEmbeddedFrame cannot be cast to class javax.swing.JFrame (sun.awt.windows.WEmbeddedFrame and javax.swing.JFrame are in module java.desktop of loader 'bootstrap')
+2024-03-10 14:04:38,312 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.clock.ClockConfigurationView.activatePlugin(ClockConfigurationView.java:425)
+2024-03-10 14:04:38,313 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.maingui.MainPanel$1.stateChanged(MainPanel.java:369)
+2024-03-10 14:04:38,313 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JTabbedPane.fireStateChanged(JTabbedPane.java:444)
+2024-03-10 14:04:38,314 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JTabbedPane$ModelListener.stateChanged(JTabbedPane.java:295)
+2024-03-10 14:04:38,314 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.DefaultSingleSelectionModel.fireStateChanged(DefaultSingleSelectionModel.java:148)
+2024-03-10 14:04:38,315 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.DefaultSingleSelectionModel.setSelectedIndex(DefaultSingleSelectionModel.java:79)
+2024-03-10 14:04:38,316 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JTabbedPane.setSelectedIndexImpl(JTabbedPane.java:648)
+2024-03-10 14:04:38,316 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JTabbedPane.setSelectedIndex(JTabbedPane.java:623)
+2024-03-10 14:04:38,317 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.plaf.basic.BasicTabbedPaneUI$Handler.mousePressed(BasicTabbedPaneUI.java:4101)
+2024-03-10 14:04:38,317 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6623)
+2024-03-10 14:04:38,318 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3389)
+2024-03-10 14:04:38,318 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.processEvent(Component.java:6391)
+2024-03-10 14:04:38,319 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+2024-03-10 14:04:38,319 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5001)
+2024-03-10 14:04:38,319 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+2024-03-10 14:04:38,320 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4833)
+2024-03-10 14:04:38,320 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4948)
+2024-03-10 14:04:38,321 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4572)
+2024-03-10 14:04:38,321 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4516)
+2024-03-10 14:04:38,321 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2310)
+2024-03-10 14:04:38,321 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4833)
+2024-03-10 14:04:38,322 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:775)
+2024-03-10 14:04:38,322 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+2024-03-10 14:04:38,322 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+2024-03-10 14:04:38,323 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+2024-03-10 14:04:38,324 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+2024-03-10 14:04:38,324 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:97)
+2024-03-10 14:04:38,325 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:747)
+2024-03-10 14:04:38,325 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+2024-03-10 14:04:38,325 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+2024-03-10 14:04:38,326 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+2024-03-10 14:04:38,326 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:744)
+2024-03-10 14:04:38,327 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+2024-03-10 14:04:38,327 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+2024-03-10 14:04:38,328 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+2024-03-10 14:04:38,329 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+2024-03-10 14:04:38,329 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2024-03-10 14:04:38,330 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2024-03-10 14:04:41,616 [INFO] I2cTimingTraitement:330 - 0x10707DBC
+2024-03-10 14:04:41,635 [WARN] IP:2119 - SERVICE1_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:41,637 [WARN] IP:2119 - SERVICE2_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:41,639 [WARN] IP:2119 - SERVICE3_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:41,640 [WARN] IP:2119 - SERVICE4_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:41,641 [WARN] IP:2119 - SERVICE5_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:41,691 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:41,692 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:41,692 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:41,692 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:41,692 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:41,692 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:41,692 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:41,692 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:41,692 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:41,692 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:41,692 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:41,692 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:41,692 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:41,692 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:41,692 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:41,692 [INFO] Middleware:612 - instanceName : USB_DEVICE bspName : BCD Detection check condition failed for : SEM_BCD_ENABLED
+2024-03-10 14:04:46,031 [INFO] I2cTimingTraitement:330 - 0x10707DBC
+2024-03-10 14:04:53,619 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 327732936 Bytes (623902720)
+2024-03-10 14:04:54,791 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 461122408 Bytes (623902720)
+2024-03-10 14:04:55,267 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 383797504 Bytes (623902720)
+2024-03-10 14:04:55,393 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RTC
+2024-03-10 14:04:55,393 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-03-10 14:04:55,393 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SEQUENCER
+2024-03-10 14:04:55,393 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: STM32_WPAN
+2024-03-10 14:04:55,393 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: HSEM
+2024-03-10 14:04:55,393 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: MEMORYMAP
+2024-03-10 14:04:55,393 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8WB5
+2024-03-10 14:04:55,393 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_Device
+2024-03-10 14:04:55,393 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: IPCC
+2024-03-10 14:04:55,393 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2024-03-10 14:04:55,393 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-03-10 14:04:55,394 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-03-10 14:04:55,394 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-03-10 14:04:55,394 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RF
+2024-03-10 14:04:55,394 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-03-10 14:04:55,394 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TINY_LPM
+2024-03-10 14:04:55,395 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-03-10 14:04:55,425 [WARN] IP:2119 - SERVICE1_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:55,426 [WARN] IP:2119 - SERVICE2_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:55,429 [WARN] IP:2119 - SERVICE3_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:55,431 [WARN] IP:2119 - SERVICE4_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:55,433 [WARN] IP:2119 - SERVICE5_UUID not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:55,619 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\license.tmp_save
+2024-03-10 14:04:55,873 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\license.tmp
+2024-03-10 14:04:55,952 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\gpio.tmp_save
+2024-03-10 14:04:56,079 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\gpio.tmp
+2024-03-10 14:04:56,179 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\usb_vars.tmp_save
+2024-03-10 14:04:56,283 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\usb_vars.tmp
+2024-03-10 14:04:56,290 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\usb_inc.tmp_save
+2024-03-10 14:04:56,354 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\usb_inc.tmp
+2024-03-10 14:04:56,368 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\usb_HalInit.tmp_save
+2024-03-10 14:04:56,472 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\usb_HalInit.tmp
+2024-03-10 14:04:56,483 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\usb_Msp.tmp_save
+2024-03-10 14:04:56,580 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\usb_Msp.tmp
+2024-03-10 14:04:56,685 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MEMORYMAP ip!!
+2024-03-10 14:04:56,685 [WARN] IP:2119 - DefaultDataRegion not found: check if there is a RefParameter without a condition.
+2024-03-10 14:04:56,705 [WARN] IPConfigManager:99 - WARNING: Missing Config File for RF ip!!
+2024-03-10 14:04:56,968 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-03-10 14:04:56,973 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-03-10 14:04:56,991 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-03-10 14:04:57,012 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\app_common.h_save
+2024-03-10 14:04:57,104 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\app_common.h
+2024-03-10 14:04:57,113 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\app_debug.h_save
+2024-03-10 14:04:57,178 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\app_debug.h
+2024-03-10 14:04:57,190 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\app_conf.h_save
+2024-03-10 14:04:57,345 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\app_conf.h
+2024-03-10 14:04:57,367 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\app_entry.h_save
+2024-03-10 14:04:57,425 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\app_entry.h
+2024-03-10 14:04:57,438 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\hw_conf.h_save
+2024-03-10 14:04:57,522 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\hw_conf.h
+2024-03-10 14:04:57,540 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\hw_if.h_save
+2024-03-10 14:04:57,628 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\hw_if.h
+2024-03-10 14:04:57,653 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\utilities_conf.h_save
+2024-03-10 14:04:57,720 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\utilities_conf.h
+2024-03-10 14:04:57,729 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\stm32_lpm_if.h_save
+2024-03-10 14:04:57,790 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\stm32_lpm_if.h
+2024-03-10 14:04:57,801 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\app_entry.c_save
+2024-03-10 14:04:57,898 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\app_entry.c
+2024-03-10 14:04:57,924 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\app_debug.c_save
+2024-03-10 14:04:58,007 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\app_debug.c
+2024-03-10 14:04:58,028 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\hw_timerserver.c_save
+2024-03-10 14:04:58,115 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\hw_timerserver.c
+2024-03-10 14:04:58,139 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\stm32_lpm_if.c_save
+2024-03-10 14:04:58,225 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\stm32_lpm_if.c
+2024-03-10 14:04:58,254 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\App\app_ble.c_save
+2024-03-10 14:04:58,407 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\App\app_ble.c
+2024-03-10 14:04:58,429 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\App\app_ble.h_save
+2024-03-10 14:04:58,497 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\App\app_ble.h
+2024-03-10 14:04:58,507 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\App\ble_conf.h_save
+2024-03-10 14:04:58,587 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\App\ble_conf.h
+2024-03-10 14:04:58,594 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\App\ble_dbg_conf.h_save
+2024-03-10 14:04:58,660 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\App\ble_dbg_conf.h
+2024-03-10 14:04:58,669 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\App\tl_dbg_conf.h_save
+2024-03-10 14:04:58,738 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\App\tl_dbg_conf.h
+2024-03-10 14:04:58,749 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\App\p2p_server_app.c_save
+2024-03-10 14:04:58,815 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\App\p2p_server_app.c
+2024-03-10 14:04:58,824 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\App\p2p_server_app.h_save
+2024-03-10 14:04:58,888 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\App\p2p_server_app.h
+2024-03-10 14:04:58,895 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\Target\hw_ipcc.c_save
+2024-03-10 14:04:58,977 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\STM32_WPAN\Target\hw_ipcc.c
+2024-03-10 14:04:58,994 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-03-10 14:04:59,006 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\App\usb_device.c_save
+2024-03-10 14:04:59,114 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\App\usb_device.c
+2024-03-10 14:04:59,123 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\App\usb_device.h_save
+2024-03-10 14:04:59,196 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\App\usb_device.h
+2024-03-10 14:04:59,207 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\Target\usbd_conf.h_save
+2024-03-10 14:04:59,290 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\Target\usbd_conf.h
+2024-03-10 14:04:59,302 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\Target\usbd_conf.c_save
+2024-03-10 14:04:59,392 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\Target\usbd_conf.c
+2024-03-10 14:04:59,415 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\App\usbd_desc.h_save
+2024-03-10 14:04:59,490 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\App\usbd_desc.h
+2024-03-10 14:04:59,499 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\App\usbd_desc.c_save
+2024-03-10 14:04:59,585 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\App\usbd_desc.c
+2024-03-10 14:04:59,602 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\App\usbd_cdc_if.h_save
+2024-03-10 14:04:59,675 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\App\usbd_cdc_if.h
+2024-03-10 14:04:59,685 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\App\usbd_cdc_if.c_save
+2024-03-10 14:04:59,779 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\USB_Device\App\usbd_cdc_if.c
+2024-03-10 14:04:59,814 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\stm32wbxx_it.c_save
+2024-03-10 14:04:59,918 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\stm32wbxx_it.c
+2024-03-10 14:04:59,952 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\stm32wbxx_it.h_save
+2024-03-10 14:05:00,029 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\stm32wbxx_it.h
+2024-03-10 14:05:00,055 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\stm32wbxx_hal_msp.c_save
+2024-03-10 14:05:00,160 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\stm32wbxx_hal_msp.c
+2024-03-10 14:05:00,179 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\system.tmp_save
+2024-03-10 14:05:00,229 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\MXTmpFiles\system.tmp
+2024-03-10 14:05:00,252 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\stm32wbxx_hal_conf.h_save
+2024-03-10 14:05:00,347 [INFO] CodeEngine:335 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\stm32wbxx_hal_conf.h
+2024-03-10 14:05:00,384 [WARN] IPConfigManager:2946 - Warning: the RefConfig RCC_PClockConfig is not available in your config.xml file
+2024-03-10 14:05:00,391 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-03-10 14:05:00,391 [WARN] CodeGenerator:3939 - IP not found : null
+2024-03-10 14:05:00,410 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\main.h_save
+2024-03-10 14:05:00,512 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Inc\main.h
+2024-03-10 14:05:00,534 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\main.c_save
+2024-03-10 14:05:00,643 [INFO] CodeEngine:279 - Generated code: C:\Dev\IEEECompetition\HW_MoveCritic\HW_MoveCritic_STM32_Workspace\MoveCritic_FBT_Module\Core\Src\main.c
+2024-03-10 14:05:01,243 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 375mS.
+2024-03-10 14:05:01,252 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-03-10 14:05:01,398 [INFO] ConfigFileManager:1495 - The Die is : DIE495
+2024-03-10 14:05:01,408 [INFO] ApiDbMcu:508 - Load IP Config File for FATFS
+2024-03-10 14:05:01,420 [INFO] ApiDbMcu:508 - Load IP Config File for FREERTOS
+2024-03-10 14:05:02,268 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2024-03-10 14:05:03,889 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2634mS.
+2024-03-10 14:05:03,889 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-03-10 14:05:03,897 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-03-10 14:09:07,725 [INFO] I2cTimingTraitement:330 - 0x10707DBC

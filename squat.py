@@ -37,7 +37,7 @@ mp_pose = mp.solutions.pose
 
 #setting up the video feed with results displayed
 #could be any camera connected to the machine. The number here represents the device. 
-cap = cv2.VideoCapture(0)   
+cap = cv2.VideoCapture(1)   
 
 #set up a mediapipe instance. .Pose means accesing the pose estimation model
 with mp_pose.Pose(min_detection_confidence = 0.5, min_tracking_confidence=0.5) as pose: #entire line will be accesible via variable pose
